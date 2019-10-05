@@ -2,7 +2,7 @@ body {
   background-color: #2b2a2a !important;
 }
 #header-section .n-logo {
-  max-width: 300px !important;
+  max-width: 500px !important;
 }
 #header-section a:hover {
   cursor: pointer;
@@ -212,7 +212,7 @@ body {
   background-size: cover;
 }
 #mailchimp-section .n-logo {
-  max-width: 300px !important;
+  max-width: 500px !important;
 }
 #mailchimp-section input {
   font-size: 18px;
